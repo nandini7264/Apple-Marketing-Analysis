@@ -2,21 +2,25 @@
 
 ---
 
+---
+
 ## 📑 Table of Contents
 
-- 📌 Overview
-- 🎯 Project Objective
-- 📂 Dataset Description
-- 🧹 Data Preprocessing & Cleaning
-- 📊 Engagement Analysis
-- 🌐 Platform Analysis
-- #️⃣ Hashtag & Content Strategy
-- 📢 Campaign Effectiveness
-- 📈 Follower Retention & Loyalty
-- 🛠 Tools & Techniques Used
-- 📁 Project Structure
-- 🚀 Key Business Insights
-- 🎥 Video Explanation
+- 📌 [Overview](#-overview)
+- 🎯 [Project Objective](#-project-objective)
+- 📂 [Dataset Description](#-dataset-description)
+- 🧹 [Data Preprocessing & Cleaning](#-data-preprocessing--cleaning)
+- 📊 [Engagement Analysis](#-engagement-analysis)
+- 🌐 [Platform Analysis](#-platform-analysis)
+- #️⃣ [Hashtag & Content Strategy](#️⃣-hashtag--content-strategy)
+- 📢 [Campaign Effectiveness](#-campaign-effectiveness)
+- 📈 [Follower Retention & Loyalty](#-follower-retention--loyalty)
+- 🛠 [Tools & Techniques Used](#-tools--techniques-used)
+- 📁 [Project Structure](#-project-structure)
+- 🚀 [Key Business Insights](#-key-business-insights)
+- 🎯 [Strategic Recommendations](#-strategic-recommendations)
+- 🎥 [Video Explanation](#-video-explanation)
+- 📌 [Conclusion](#-conclusion)
 
 ---
 
@@ -160,21 +164,20 @@ This analysis evaluated long-term brand sustainability and retention.
 
 ## 📁 Project Structure
 
+```
 Apple-Social-Media-Analytics/
 │
 ├── Data/
-│   ├── Posts Dataset.xlsx
-│   ├── Engagement Summary.xlsx
-│   └── Campaign Metadata.xlsx
+│   └── Raw Data.xlsx
 │
 ├── Analysis/
-│   └── Social Media Intelligence Solution.xlsx
+│   └── Social Media Analysis Solution.xlsx
 │
 ├── Presentation/
 │   └── Apple Marketing Insights Presentation.pptx
 │
 └── README.md
-
+```
 ---
 
 ## 🚀 Key Business Insights
