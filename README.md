@@ -2,8 +2,6 @@
 
 ---
 
----
-
 ## 📑 Table of Contents
 
 - 📌 [Overview](#-overview)
@@ -68,82 +66,49 @@ The final solution provides structured dashboards and insights to support market
 
 ## 🧹 Data Preprocessing & Cleaning
 
-- Removed duplicate records
-- Standardized platform names and date formats
-- Formatted numeric columns (Impressions, Likes, Ad Spend)
-- Split hashtags into individual tags for granular analysis
-- Ensured data consistency across workbooks
+- Cleaned and standardized raw datasets by removing duplicates, formatting dates, and correcting platform labels.
+- Structured numeric metrics (impressions, likes, ad spend) for accurate KPI calculations.
+- Parsed hashtags into analyzable components to enable performance comparison.
 
 ---
 
 ## 📊 Engagement Analysis
 
-- Calculated Engagement Rate:
-
-  Engagement Rate = (Likes + Shares + Comments) / Impressions
-
-- Identified Top 10 Posts with highest engagement
-- Built Pivot Tables:
-  - Engagement by Content Type & Platform
-  - Average Clicks per Hashtag
-- Highlighted high-performing hashtags:
-  - #ShotOniPhone
-  - #AppleEvent
-  - #iPhone16Launch
-  - #MacBookAir
+- Computed engagement rate to evaluate post-level effectiveness across platforms.
+- Identified top-performing posts and content formats using pivot-based analysis.
+- Assessed hashtag contribution to clicks and overall interaction performance.
 
 ---
 
 ## 🌐 Platform Analysis
 
-- Compared engagement rate across platforms
-- Analyzed follower growth trends
-- Visualized Engagement vs Ad Spend
-- Evaluated whether Apple should:
-  - Focus on high-performing platforms
-  - Or maintain a multi-platform strategy
-
-Insights were supported using pivot analysis and visual dashboards.
+- Compared engagement efficiency and follower growth across major platforms.
+- Analyzed relationship between ad spend and engagement outcomes.
+- Identified platforms delivering strongest return in terms of audience growth and interaction.
 
 ---
 
 ## #️⃣ Hashtag & Content Strategy
 
-- Identified most frequently used hashtags
-- Compared performance by hashtag
-- Analyzed content types:
-  - Videos (Launch Events, Product Demos)
-  - Images (Lifestyle, Product Shots)
-  - Carousels (Feature Comparisons)
-
-Platform-specific content recommendations were derived from performance metrics.
+- Evaluated performance of high-frequency hashtags to determine visibility impact.
+- Compared effectiveness of videos, images, and carousel formats.
+- Derived platform-specific content preferences to optimize reach and engagement.
 
 ---
 
 ## 📢 Campaign Effectiveness
 
-- Calculated Total & Average:
-  - Impressions
-  - Likes
-  - Clicks per campaign
-- Measured Engagement Uplift during campaign periods
-- Compared ROI (Engagement vs Spend)
-- Identified campaign driving highest follower growth
-
-This section links marketing spend directly to business impact.
+- Measured campaign-level performance using impressions, clicks, and engagement uplift.
+- Evaluated ROI by linking campaign spend to measurable engagement growth.
+- Identified product launches and promotional events driving maximum audience traction.
 
 ---
 
 ## 📈 Follower Retention & Loyalty
 
-- Visualized weekly follower growth using line charts
-- Identified peak growth weeks
-- Applied Moving Averages to smooth trends
-- Created scatter plots to correlate:
-  
-  Ad Spend vs Follower Growth
-
-This analysis evaluated long-term brand sustainability and retention.
+- Tracked weekly follower growth trends to detect spikes during major campaigns.
+- Applied moving average analysis to understand sustained vs short-term growth.
+- Examined correlation between ad investment and follower acquisition to assess long-term brand impact.
 
 ---
 
@@ -157,8 +122,6 @@ This analysis evaluated long-term brand sustainability and retention.
 - Moving Average Analysis
 - ROI Computation
 - Scatter & Line Visualizations
-
----
 
 ---
 
